@@ -1,2 +1,2 @@
 new changes in test-branch
-intentionally create some conflicts
+update in test-branch put not update from master
